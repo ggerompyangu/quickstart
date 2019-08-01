@@ -10,7 +10,23 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+/**
+ * display al tasks
+ */
 Route::get('/', function () {
-    return view('welcome');
+
+});
+
+/**
+ * Add a new task
+ */
+Route::post('/task',function(Request $reguest) {
+	//
+});
+
+/**
+ * Delete An Existing Task
+ */
+Route::delete('/task/{id}', function ($id) {
+    //
 });
