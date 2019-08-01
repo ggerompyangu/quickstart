@@ -14,7 +14,7 @@
  * display al tasks
  */
 Route::get('/', function () {
-
+	return view('tasks');
 });
 
 /**
