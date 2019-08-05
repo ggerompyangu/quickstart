@@ -1,0 +1,613 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"graphi",
+				"graphic-design"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"in",
+				"incl\tinclude …"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"AL",
+				"appCtrl"
+			],
+			[
+				"tr",
+				"oci_field_type_raw"
+			],
+			[
+				"sc",
+				"socket_connect"
+			],
+			[
+				"get_",
+				"get_headers"
+			],
+			[
+				"require",
+				"Require"
+			],
+			[
+				"Ka",
+				"Kampala-Uganda"
+			],
+			[
+				"financial",
+				"financial-management"
+			],
+			[
+				"financi",
+				"financial-management"
+			],
+			[
+				"prof",
+				"professional"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 561,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2019_07_30_113734_create_tasks_table.php",
+			"settings":
+			{
+				"buffer_size": 622,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 2746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 243,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/tasks.blade.php",
+			"settings":
+			{
+				"buffer_size": 1042,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Providers/AppServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 495,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 650,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Emma \n - brother\n\nJoan\n\nMe\n\nIFU\n\nChapel, ministry\n\nFamily\n--Revival",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Windows",
+				"name": "Emma"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/test/quickstart",
+		"/D/xampp/htdocs/test/quickstart/public",
+		"/D/xampp/htdocs/test/quickstart/public/css",
+		"/D/xampp/htdocs/test/quickstart/public/js",
+		"/D/xampp/htdocs/test/quickstart/resources",
+		"/D/xampp/htdocs/test/quickstart/resources/views",
+		"/D/xampp/htdocs/test/quickstart/routes"
+	],
+	"file_history":
+	[
+		"/D/Work/Izzy/notes",
+		"/D/xampp/htdocs/test/quickstart/database/migrations/2019_07_30_113734_create_tasks_table.php",
+		"/D/Work/nathanmpyangu.github.io/graphic-design.html",
+		"/D/Work/nathanmpyangu.github.io/contact.html",
+		"/D/Work/nathanmpyangu.github.io/web.html",
+		"/D/Work/nathanmpyangu.github.io/index.html",
+		"/G/Gold was was the colour of that first day",
+		"/C/Users/DELL/Downloads/app.blade.php",
+		"/C/Users/DELL/Downloads/oldfooter.blade.php",
+		"/C/Users/DELL/Downloads/home.blade.php",
+		"/F/paul/www.greenvalleyhotel.com/accomodation.php",
+		"/F/paul/www.greenvalleyhotel.com/nav.php",
+		"/F/paul/www.greenvalleyhotel.com/about-us.php",
+		"/F/paul/www.greenvalleyhotel.com/tariffs.php",
+		"/F/paul/www.greenvalleyhotel.com/sidebar.php",
+		"/F/paul/www.greenvalleyhotel.com/index.php",
+		"/F/paul/www.greenvalleyhotel.com/inquiry.php",
+		"/F/paul/www.greenvalleyhotel.com/contact.php",
+		"/C/My Web Sites/octagon/www.pwc.com/index.html",
+		"/C/Users/DELL/Downloads/about.blade.php",
+		"/F/paul/www.greenvalleyhotel.com/reservations.php",
+		"/F/paul/www.greenvalleyhotel.com/gallery.php",
+		"/C/Users/DELL/Downloads/contact.php",
+		"/F/paul/www.greenvalleyhotel.com/header.php",
+		"/F/paul/www.greenvalleyhotel.com/header-home.php",
+		"/F/paul/www.greenvalleyhotel.com/restaurants.php",
+		"/F/paul/www.greenvalleyhotel.com/conferences.php",
+		"/F/paul/www.greenvalleyhotel.com/facilities.php",
+		"/F/paul/www.greenvalleyhotel.com/editedstyle.css",
+		"/F/paul/www.greenvalleyhotel.com/index.html",
+		"/F/paul/www.greenvalleyhotel.com/about-us.html",
+		"/F/paul/www.greenvalleyhotel.com/footer.php",
+		"/C/Users/DELL/Downloads/drimo-colorlib/drimo/drimo/index-6.html",
+		"/F/systems/hospital/codecanyon-18955750-hospital-hospital-management-system-with-website/MainHospital/main/system/core/Config.php",
+		"/C/My Web Sites/Conference/eazzy.me/html/imevent/index-light.html",
+		"/F/New Website Dashboard/app/modules/dashboard/controllers/contact.js",
+		"/F/New Website Dashboard/app/modules/dashboard/controllers/about.js",
+		"/F/New Website Dashboard/app/modules/dashboard/dashboardApplication.js",
+		"/C/Users/DELL/Desktop/main.js",
+		"/F/systems/Ultimate-school-management-system/OraSchool50/upload/bootstrap/app.php",
+		"/F/New folder/acadri/acadri/training-courses/human-resource/human-resource-data-analytics-and-business-intelligence.html",
+		"/F/New folder/acadri/acadri/course-application/index.php",
+		"/F/elearning script/elearning/www.futurelearn.com/courses/hadrians-wall.html",
+		"/F/elearning script/elearning/www.futurelearn.com/index.html",
+		"/C/Users/DELL/Downloads/isaac-backend.sql",
+		"/F/systems/max new/codecanyon-21548172-maxer-erp-system-hr-finance-sales-purchase-crm-email-notifications/maxer-erp-system/resources/lang/en/admin/common.php",
+		"/F/systems/max new/codecanyon-21548172-maxer-erp-system-hr-finance-sales-purchase-crm-email-notifications/maxer-erp-system/resources/lang/en/admin/dashboard.php",
+		"/F/New folder/acadri/acadri/course-application/application.php",
+		"/C/Users/DELL/Downloads/Angular-Bootstrap-Dashboard-master/Angular-Bootstrap-Dashboard-master/index.html",
+		"/F/codebase-ALVIN/Helpers/functions.php",
+		"/F/New folder/acadri/acadri/xxx/course-application/index.php",
+		"/F/New folder/acadri/acadri/index.html",
+		"/F/systems/Ultimate-school-management-system/OraSchool50/upload/bootstrap/autoload.php",
+		"/F/systems/Ultimate-school-management-system/OraSchool50/upload/index.php",
+		"/F/acadri (3)/acadri/contact-us.html",
+		"/C/Users/DELL/Downloads/contact_form_blog_post/contact_form_blog_post/index.html",
+		"/C/Users/DELL/Downloads/contact_form_blog_post/contact_form_blog_post/mail.php",
+		"/F/contact.html",
+		"/F/ongoing.html",
+		"/C/Users/DELL/Desktop/sec.html",
+		"/F/codebase-ALVIN/Libraries/Customlib.php",
+		"/F/codebase-ALVIN/Libraries/Customerlib.php",
+		"/F/New Website Dashboard/app/modules/dashboard/controllers/websites.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "database/migrations/2019_07_30_113734_create_tasks_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1224.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/tasks.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Providers/AppServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Emma",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "quickstart.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Work\\timetabler\\timetabler.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 400.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
