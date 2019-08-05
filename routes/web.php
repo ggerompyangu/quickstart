@@ -20,8 +20,19 @@ Route::get('/', function () {
 /**
  * Add a new task
  */
-Route::post('/task',function(Request $reguest) {
-	//
+Route::post('/task',function(Request $request) {
+	$validator = Vaidator::make($request->all(), [
+		'name' => 'required|max:255',
+	]);
+
+	if ($validator->fails()) {
+		return redirect('/')
+			->withInput()
+			->withErrors($validator);
+	}
+
+	// Create the Task...
+
 });
 
 /**
