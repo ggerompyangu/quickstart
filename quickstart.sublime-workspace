@@ -90,14 +90,6 @@
 			}
 		},
 		{
-			"file": "resources/views/welcome.blade.php",
-			"settings":
-			{
-				"buffer_size": 2746,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "resources/views/layouts/app.blade.php",
 			"settings":
 			{
@@ -128,18 +120,20 @@
 			"file": "routes/web.php",
 			"settings":
 			{
-				"buffer_size": 650,
+				"buffer_size": 857,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "Emma \n - brother\n\nJoan\n\nMe\n\nIFU\n\nChapel, ministry\n\nFamily\n--Revival",
+			"contents": "@if (count($errors) > 0)\n\t<!-- Form Error List -->\n\t<div class=\"alert alert-danger\">\n\t\t<strong>Whoops! Something went wrong!</strong>\n\t\t<br>\n\t\t<br>\n\t\t<ul>\n\t\t\t@foreach ($errors->all() as $error)\n\t\t\t@endforeach\n\t\t</ul>\n\t</div>\n@endif",
+			"file": "resources/views/common/errors.blade.php",
+			"file_size": 0,
+			"file_write_time": 132094797549368844,
 			"settings":
 			{
-				"buffer_size": 67,
-				"line_ending": "Windows",
-				"name": "Emma"
+				"buffer_size": 231,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -181,11 +175,11 @@
 	"expanded_folders":
 	[
 		"/D/xampp/htdocs/test/quickstart",
-		"/D/xampp/htdocs/test/quickstart/public",
-		"/D/xampp/htdocs/test/quickstart/public/css",
-		"/D/xampp/htdocs/test/quickstart/public/js",
 		"/D/xampp/htdocs/test/quickstart/resources",
+		"/D/xampp/htdocs/test/quickstart/resources/lang",
 		"/D/xampp/htdocs/test/quickstart/resources/views",
+		"/D/xampp/htdocs/test/quickstart/resources/views/common",
+		"/D/xampp/htdocs/test/quickstart/resources/views/layouts",
 		"/D/xampp/htdocs/test/quickstart/routes"
 	],
 	"file_history":
@@ -288,7 +282,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -316,7 +310,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -346,41 +340,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "resources/views/welcome.blade.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2746,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1224.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "resources/views/layouts/app.blade.php",
 					"semi_transient": false,
 					"settings":
@@ -408,7 +372,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "resources/views/tasks.blade.php",
 					"semi_transient": false,
 					"settings":
@@ -420,13 +384,15 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								392,
+								392
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -436,7 +402,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "app/Providers/AppServiceProvider.php",
 					"semi_transient": false,
 					"settings":
@@ -466,20 +432,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "routes/web.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 650,
+						"buffer_size": 857,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								467,
-								467
+								610,
+								610
 							]
 						],
 						"settings":
@@ -487,38 +453,38 @@
 							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 4.0,
+						"translation.y": 328.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
+					"file": "resources/views/common/errors.blade.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 67,
+						"buffer_size": 231,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								67,
-								67
+								208,
+								208
 							]
 						],
 						"settings":
 						{
-							"auto_name": "Emma",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -605,7 +571,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 400.0,
+	"side_bar_width": 312.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
